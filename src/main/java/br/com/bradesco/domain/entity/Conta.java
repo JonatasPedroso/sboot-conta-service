@@ -27,5 +27,4 @@ public class  Conta implements Serializable {
     private String banco;
     private BigDecimal saldo;
     private UUID idUsuario;
-
 }
